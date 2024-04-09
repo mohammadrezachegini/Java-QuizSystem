@@ -1,4 +1,4 @@
-# Electronic Programming Quiz System
+# Java Quiz System
 
 ## Overview
 
